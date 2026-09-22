@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Rakshit-automations/Rakshit-automations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on AI powered websites, automations, and business workflows.<br>👯 I’m looking to collaborate with Founders, comma, startups, comma, and businesses on AI and automation projects.<br>🤝 I’m looking for help with Solving real world business problems using AI, automation, and software.<br>🌱 I’m currently learning  More about Agentic AI, AI integrations, cloud, and scalable systems.<br>💬 Ask me about AI automation, full stack development, APIs, AI integrations and turning ideas into working products.<br>⚡ Fun fact I love turning repetitive business processes into automated systems.
 
 
@@ -36,7 +25,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=Rakshit-automations&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
